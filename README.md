@@ -1,2 +1,2 @@
-# Bar-Chart-Race
-Bar-Chart-Race with Matplotlib
+# Bar Chart Race in Python with Matplotlib
+Bar Chart Race in Python with Matplotlib
